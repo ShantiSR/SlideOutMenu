@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D590A9A-BCF4-4D49-8C4E-408EAF311ED9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlideOutDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F312D237-3B09-4A53-A8AA-731916D9A5CF</key>
+		<string>https://github.com/Rick2003/SlideOutMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlideOutDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F312D237-3B09-4A53-A8AA-731916D9A5CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rick2003/SlideOutMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F312D237-3B09-4A53-A8AA-731916D9A5CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F312D237-3B09-4A53-A8AA-731916D9A5CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlideOutMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
